@@ -8,3 +8,4 @@ by mac
 hello
 test -a param
 hadoop
+java
