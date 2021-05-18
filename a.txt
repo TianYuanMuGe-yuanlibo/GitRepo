@@ -9,3 +9,4 @@ hello
 test -a param
 hadoop
 java
+gitignore
